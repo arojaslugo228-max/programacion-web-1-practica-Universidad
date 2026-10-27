@@ -1,5 +1,10 @@
+# 📰 Periódico Informativo Noticioso
 
-#REPOSITORIO DE PRACTICA PARA LA ASIGNATURA PROGRAMACION WEB 1
+## 🚀 Descripción
+Proyecto web realizado  para la universidad, enfocado en estructurar contenido periodístico aplicando estilos modernos y dinamismo interactivo.
 
-
-###Este reporitorio cuenta un proyecto guia de la asignatura sobre la construccion de una pagina de contenido noticioso
+## 🛠️ Tecnologías utilizadas
+* HTML5
+* CSS3
+* JavaScript
+ Este proyecto se encuentra en desarrollo
