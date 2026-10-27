@@ -9,4 +9,4 @@ Proyecto web realizado  para la universidad, enfocado en estructurar contenido p
 * JavaScript
 
 
- Este proyecto se encuentra en desarrollo
+ * Este proyecto se encuentra en desarrollo
