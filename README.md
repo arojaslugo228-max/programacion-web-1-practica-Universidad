@@ -1,3 +1,5 @@
-#Programacion web 1
-##repositorio de practica para la asignatura programación web 1 
-###
+
+#REPOSITORIO DE PRACTICA PARA LA ASIGNATURA PROGRAMACION WEB 1
+
+
+###Este reporitorio cuenta un proyecto guia de la asignatura sobre la construccion de una pagina de contenido noticioso
