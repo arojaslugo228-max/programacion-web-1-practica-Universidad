@@ -7,4 +7,6 @@ Proyecto web realizado  para la universidad, enfocado en estructurar contenido p
 * HTML5
 * CSS3
 * JavaScript
+
+
  Este proyecto se encuentra en desarrollo
