@@ -146,11 +146,20 @@ body{
 	
 }
 
-button.BTNmodoOscuro{
+.formulario {
+ background-color: #f4f4f4;
+ text-align: center;
+ padding: 20px;
+ margin: 0px;
 	
-	background-color: #121212;
-	color #f1f5f9;
-	
+}
+
+#formulario-registro label {
+ font-weight: bold;
+ color: #E04124	
+}
+.formulario h1{
+color:#1a1a1a	
 	
 }
 
